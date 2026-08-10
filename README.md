@@ -1,48 +1,58 @@
-### Hi, I'm Harsh 
+# Hi, I'm Harsh Vishwakarma 👋
 
-IT graduate who learns by shipping projects, not just finishing courses.
-Full-stack developer with a habit of testing and breaking my own code before
-anyone else does.
+**B.Sc. Information Technology Graduate | Software Development | QA & Testing**
 
-- Currently building: deeper React.js / Next.js projects
-- Currently learning: Selenium, structured QA/testing practices
-- Ask me about: Python, Flask, REST APIs, AI API integration
-- Reach me: harshvish0987@gmail.com
+I build web applications and learn through hands-on projects. My current focus is Python/Flask backend development, JavaScript-based web applications, REST APIs, AI API integration, and practical software testing.
 
----
-
-###  Tech Stack
-
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Tools:** ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- 🎓 B.Sc. Information Technology graduate — 2026
+- 💻 Focus: Python, Flask, JavaScript, REST APIs, SQL
+- 🧪 Learning: Manual testing, API testing, Selenium, STLC and defect lifecycle practices
+- 🤖 Interests: AI-integrated applications and computer-vision projects
+- 📫 Contact: [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)
 
 ---
 
-###  Featured Projects
+## 🛠️ Technical Skills
 
-**[Web-Based Sign Language Translator](LINK_TO_REPO)**
-Real-time webcam gesture recognition (MediaPipe + Flask) converting hand signs
-to text — built for accessibility.
-
-**[AI Chatbot Application](LINK_TO_REPO)**
-Context-aware chatbot integrating the Gemini API with a Flask backend and
-Next.js SSR frontend.
-
-**[AI Resume Analyzer & ATS Checker](LINK_TO_REPO)**
-Scores resumes against job descriptions, flags missing keywords, and stores
-results via Firebase.
+**Languages:** Python · JavaScript (ES6+) · SQL · HTML5 · CSS3  
+**Backend & APIs:** Flask · REST APIs · CRUD · API Integration  
+**Frontend:** JavaScript · Responsive Web Design · React.js (fundamentals)  
+**Databases & Services:** Firebase · SQL databases  
+**AI & Computer Vision:** Gemini API · MediaPipe  
+**Testing & Debugging:** Manual Functional Testing · Test Case Design · Edge-Case Analysis · API Testing · Root-Cause Debugging  
+**Tools:** Git · GitHub · VS Code · Postman
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Selected Projects
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+### Real-Time Sign Language Translator
+A web-based application that uses webcam input and MediaPipe hand tracking to recognize hand gestures and convert them into readable text, with a Flask backend and JavaScript-based frontend.
+
+**Tech:** Python · Flask · MediaPipe · JavaScript · HTML · CSS
+
+### AI Resume Analyzer & ATS Checker
+An AI-powered application that analyzes resumes against job descriptions, identifies relevant keywords, and generates improvement recommendations using the Gemini API, with Firebase used for application data.
+
+**Tech:** Python · Flask · Gemini API · Firebase · SQL · JavaScript · HTML · CSS
+
+### AI Chatbot Application — In Development
+A conversational web application built around the Gemini API and Flask. The project is currently under development and is being used to deepen practical experience with API integration, frontend/backend communication, and application testing.
+
+**Tech:** Python · Flask · Gemini API · JavaScript · HTML · CSS · Firebase
+
+---
+
+## 📌 Current Learning
+
+- Selenium and test automation fundamentals
+- Software Testing Life Cycle (STLC)
+- Defect lifecycle and structured QA practices
+- React.js and modern frontend development
+
+---
+
+## 📫 Connect
+
+**Email:** [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)  
+**GitHub:** [github.com/harshvish0987-glitch](https://github.com/harshvish0987-glitch)
