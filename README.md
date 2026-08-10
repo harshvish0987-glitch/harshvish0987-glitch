@@ -1,58 +1,60 @@
-# Hi, I'm Harsh Vishwakarma 👋
+# HARSH VISHWAKARMA
 
-**B.Sc. Information Technology Graduate | Software Development | QA & Testing**
+**IT Graduate | Software Developer • QA & Testing • Full-Stack**
 
-I build web applications and learn through hands-on projects. My current focus is Python/Flask backend development, JavaScript-based web applications, REST APIs, AI API integration, and practical software testing.
+Information Technology graduate with a hands-on, project-based foundation across software development and testing — building full-stack web applications, integrating third-party AI APIs, and independently testing and debugging projects end-to-end.
 
-- 🎓 B.Sc. Information Technology graduate — 2026
-- 💻 Focus: Python, Flask, JavaScript, REST APIs, SQL
-- 🧪 Learning: Manual testing, API testing, Selenium, STLC and defect lifecycle practices
-- 🤖 Interests: AI-integrated applications and computer-vision projects
-- 📫 Contact: [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)
+- 🎓 B.Sc. in Information Technology — 2026
+- 💻 Focus: Software Development, QA & Testing, Full-Stack Web Development
+- 📫 Email: [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
+## TECHNICAL SKILLS
 
-**Languages:** Python · JavaScript (ES6+) · SQL · HTML5 · CSS3  
-**Backend & APIs:** Flask · REST APIs · CRUD · API Integration  
-**Frontend:** JavaScript · Responsive Web Design · React.js (fundamentals)  
-**Databases & Services:** Firebase · SQL databases  
-**AI & Computer Vision:** Gemini API · MediaPipe  
-**Testing & Debugging:** Manual Functional Testing · Test Case Design · Edge-Case Analysis · API Testing · Root-Cause Debugging  
-**Tools:** Git · GitHub · VS Code · Postman
+**Languages:** Python, JavaScript (ES6+), SQL, HTML5, CSS3  
+**Frameworks & Libraries:** Flask, React.js (fundamentals), Next.js (SSR fundamentals)  
+**APIs & Integration:** REST API design & consumption, Gemini API, Firebase (NoSQL)  
+**Testing & Debugging:** Manual functional testing, test case design, edge-case analysis, API testing (Postman), root-cause debugging  
+**Tools & Platforms:** Git/GitHub, VS Code, Firebase Hosting, Postman  
+**Core Concepts:** SDLC, Responsive Web Design, CRUD Operations, Database Management, Data Validation  
+**Currently Learning:** Selenium (test automation), JIRA, STLC & defect-lifecycle practices, ISTQB Foundation
 
 ---
 
-## 🚀 Selected Projects
+## PROJECT EXPERIENCE
 
-### Real-Time Sign Language Translator
-A web-based application that uses webcam input and MediaPipe hand tracking to recognize hand gestures and convert them into readable text, with a Flask backend and JavaScript-based frontend.
+### Web-Based Sign Language Translator
+**Python, Flask, MediaPipe, HTML5, CSS3, JavaScript**
 
-**Tech:** Python · Flask · MediaPipe · JavaScript · HTML · CSS
-
-### AI Resume Analyzer & ATS Checker
-An AI-powered application that analyzes resumes against job descriptions, identifies relevant keywords, and generates improvement recommendations using the Gemini API, with Firebase used for application data.
-
-**Tech:** Python · Flask · Gemini API · Firebase · SQL · JavaScript · HTML · CSS
+- Built a real-time sign language translator that captures webcam video, tracks hand landmarks with MediaPipe, and converts recognized gestures into readable text.
+- Manually tested gesture-recognition accuracy across varied lighting and hand positions and debugged integration issues between the computer-vision model and the web frontend.
 
 ### AI Chatbot Application — In Development
-A conversational web application built around the Gemini API and Flask. The project is currently under development and is being used to deepen practical experience with API integration, frontend/backend communication, and application testing.
+**Python, Flask, Gemini API, Firebase, Next.js, HTML5, CSS3, JavaScript**
 
-**Tech:** Python · Flask · Gemini API · JavaScript · HTML · CSS · Firebase
+- Developing a conversational AI chatbot integrating the Gemini API with a Flask backend and Next.js server-side rendering (SSR).
+- Testing scenarios around context handling, malformed input, and API failures while debugging response-handling logic.
 
----
+### AI Resume Analyzer & ATS Checker
+**Python, Flask, Gemini API, SQL, Firebase, HTML5, CSS3, JavaScript**
 
-## 📌 Current Learning
-
-- Selenium and test automation fundamentals
-- Software Testing Life Cycle (STLC)
-- Defect lifecycle and structured QA practices
-- React.js and modern frontend development
+- Built an ATS resume-analysis platform that evaluates resumes against job descriptions, flags missing keywords, and generates improvement recommendations using AI.
+- Defined test cases across multiple resume formats and job-description inputs and validated Flask-to-Firebase data flow and malformed-input handling.
 
 ---
 
-## 📫 Connect
+## EDUCATION
 
-**Email:** [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)  
-**GitHub:** [github.com/harshvish0987-glitch](https://github.com/harshvish0987-glitch)
+**B.Sc. in Information Technology** — Graduated 2026  
+S.M. Shetty College of Science, Commerce & Arts, Powai, Mumbai, India
+
+**Higher Secondary Certificate (HSC), Science** — 2023  
+Saraswati Vidyalaya High School & Jr. College of Science, Rabodi, Thane, India
+
+---
+
+## CONNECT
+
+**GitHub:** [github.com/harshvish0987-glitch](https://github.com/harshvish0987-glitch)  
+**Email:** [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)
