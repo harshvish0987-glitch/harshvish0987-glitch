@@ -42,7 +42,9 @@ The application combines deterministic resume checks with Gemini structured anal
 
 ## Environment
 
-Copy `.env.example` to `.env.local` for local development and provide `GEMINI_API_KEY`.
+The application reads Gemini and optional Firebase credentials from server-side environment variables. Do not create or commit an environment file containing credentials to the public repository.
+
+For local development, configure `GEMINI_API_KEY` in your operating-system environment or your local development environment. Keep all secrets outside Git.
 
 Never commit API keys, Firebase service-account credentials, database files, or `.env` files.
 
