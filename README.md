@@ -6,7 +6,7 @@ Information Technology graduate with a hands-on, project-based foundation across
 
 - 🎓 B.Sc. in Information Technology — 2026
 - 💻 Focus: Software Development, QA & Testing, Full-Stack Web Development
-- 📫 Email: [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)
+- 📫 Email: [harshv0987@gmail.com](mailto:harshv0987@gmail.com)
 
 ---
 
@@ -29,18 +29,20 @@ Information Technology graduate with a hands-on, project-based foundation across
 
 - Built a real-time sign language translator that captures webcam video, tracks hand landmarks with MediaPipe, and converts recognized gestures into readable text.
 - Manually tested gesture-recognition accuracy across varied lighting and hand positions and debugged integration issues between the computer-vision model and the web frontend.
+- [Source Code and Project Documentation](./SIGN-AI/)
 
 ### AI Chatbot Application — In Development
 **Python, Flask, Gemini API, Firebase, Next.js, HTML5, CSS3, JavaScript**
 
 - Developing a conversational AI chatbot integrating the Gemini API with a Flask backend and Next.js server-side rendering (SSR).
 - Testing scenarios around context handling, malformed input, and API failures while debugging response-handling logic.
+- [Source Code and Project Documentation](./smart-ai-chatbot/)
 
 ### AI Resume Analyzer & ATS Checker
 **Python, Flask, Gemini API, SQL, Firebase, HTML5, CSS3, JavaScript**
 
-- Built an ATS resume-analysis platform that evaluates resumes against job descriptions, flags missing keywords, and generates improvement recommendations using AI.
-- Defined test cases across multiple resume formats and job-description inputs and validated Flask-to-Firebase data flow and malformed-input handling.
+- Planned AI-powered resume-analysis platform intended to evaluate resumes against job descriptions, flag missing keywords, and generate improvement recommendations.
+- Implementation will be developed separately; no production or completed-project claim is made at this stage.
 
 ---
 
@@ -57,4 +59,4 @@ Saraswati Vidyalaya High School & Jr. College of Science, Rabodi, Thane, India
 ## CONNECT
 
 **GitHub:** [github.com/harshvish0987-glitch](https://github.com/harshvish0987-glitch)  
-**Email:** [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)
+**Email:** [harshv0987@gmail.com](mailto:harshv0987@gmail.com)
