@@ -6,7 +6,7 @@ Information Technology graduate with a hands-on, project-based foundation across
 
 - 🎓 B.Sc. in Information Technology — 2026
 - 💻 Focus: Software Development, QA & Testing, Full-Stack Web Development
-- 📫 Email: [harshv0987@gmail.com](mailto:harshv0987@gmail.com)
+- 📫 Email: [harshvish0987@gmail.com](mailto:harshv0987@gmail.com)
 
 ---
 
@@ -59,4 +59,4 @@ Saraswati Vidyalaya High School & Jr. College of Science, Rabodi, Thane, India
 ## CONNECT
 
 **GitHub:** [github.com/harshvish0987-glitch](https://github.com/harshvish0987-glitch)  
-**Email:** [harshv0987@gmail.com](mailto:harshv0987@gmail.com)
+**Email:** [harshvish0987@gmail.com](mailto:harshvish0987@gmail.com)
